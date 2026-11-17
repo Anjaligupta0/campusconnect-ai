@@ -2,12 +2,23 @@
 
 A full-stack campus issue tracker. Students report problems (broken fan, dead WiFi, missing library book), AI sorts each report by type and priority, staff fix them, and admins watch the whole campus. Each role has its own dashboard.
 
-**Live demo:** _add your Vercel link here_
-**Demo logins:** _add a student, staff and admin test account here_
+**Live demo:** https://campusconnect-ai-pi.vercel.app/login
+**Demo logins:** | Role | Email | Password |
+|---|---|---|
+| Student | anjaligupta05092006@gmail.com | anjaligupta@01 |
+| Staff | rishistaff@gamil.com | rishistaff|
+| Admin | admin@campus.com | Admin@12345 |
 
 ## Screenshots
 
-_Add 3 to 4 screenshots here: student dashboard, report an issue, staff work queue, admin overview._
+| Student dashboard | Report an issue |
+|---|---|
+| ![Student dashboard](screenshots/c:\Users\USER\OneDrive\Pictures\Screenshots 1\Screenshot 2026-11-17 123247.png) | ![Report an issue](c:\Users\USER\OneDrive\Pictures\Screenshots 1\Screenshot 2026-11-17 123305.png) |
+
+| Staff work queue | Admin overview |
+|---|---|
+| ![Staff work queue](c:\Users\USER\OneDrive\Pictures\Screenshoats 1\Screenshot 2026-11-17 123329.png) | ![Admin overview](c:\Users\USER\OneDrive\Pictures\Screenshots 1\Screenshot 2026-11-17 123401.png
+c:\Users\USER\OneDrive\Pictures\Screenshots 1\Screenshot 2026-11-17 123427.png) |
 
 ## Features
 
